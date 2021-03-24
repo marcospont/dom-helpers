@@ -88,6 +88,6 @@
     "simulant": "^0.2.2",
     "sinon": "^9.2.4",
     "typescript": "^4.2.2",
-    "webpack": "^4.46.0"
+    "webpack": "^5.28.0"
   }
 }
